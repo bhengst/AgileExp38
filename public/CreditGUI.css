@@ -1,0 +1,22 @@
+th{
+  text-align: center;
+  width: 33%;
+  background-color: #dddddd;
+}
+h1{
+  font-size: 50px;
+}
+
+
+.tables{
+  margin-top: 0px;
+  margin-left: 7%;
+  margin-right: 7%;
+  border-collapse: collapse;
+  text-align: center;
+  background-color: rgb(240, 240, 240);
+  border: 2px black solid;
+}
+body{
+  background-color: #dadadb;
+}
